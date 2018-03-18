@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 ![LinkedIn](https://www.linkedin.com/in/jared-michael-diehl/)
 
 ### Resume
-![Resume]()
+![Resume](https://github.com/jaredible/liftoff-assignments/blob/master/C1-Online_Profiles/Jared%20Diehl%20Resume.pdf)
