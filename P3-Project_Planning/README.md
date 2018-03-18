@@ -8,7 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* [add_wallet](https://github.com/jaredible/liftoff-assignments/blob/master/P3-Project_Planning/add_wallet.png)
+* [list_item_wallet](https://github.com/jaredible/liftoff-assignments/blob/master/P3-Project_Planning/list_item_wallet.png)
+* [scan_wallet](https://github.com/jaredible/liftoff-assignments/blob/master/P3-Project_Planning/scan_wallet.png)
+* [show_wallet](https://github.com/jaredible/liftoff-assignments/blob/master/P3-Project_Planning/show%20wallet.png)
+* [wallet_list](https://github.com/jaredible/liftoff-assignments/blob/master/P3-Project_Planning/wallet_list.png)
 
 ### Project Tracker
 
