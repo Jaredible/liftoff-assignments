@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-![GitHub](https://github.com/jaredible)
+[GitHub](https://github.com/jaredible)
 
 ### LinkedIn
-![LinkedIn](https://www.linkedin.com/in/jared-michael-diehl/)
+[LinkedIn](https://www.linkedin.com/in/jared-michael-diehl/)
 
 ### Resume
-![Resume](https://github.com/jaredible/liftoff-assignments/blob/master/C1-Online_Profiles/Jared%20Diehl%20Resume.pdf)
+[Resume](https://github.com/jaredible/liftoff-assignments/blob/master/C1-Online_Profiles/Jared%20Diehl%20Resume.pdf)
